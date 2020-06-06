@@ -18,8 +18,8 @@ Install the following packages using pip or conda
 
 To install using pip use the command
 
-*pip install <package-name>==x.x.x*
+*pip install package-name==x.x.x*
 
 To install using conda use the command
 
-*conda install <package-name>=x.x.x*
+*conda install package-name=x.x.x*
