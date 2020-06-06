@@ -23,3 +23,10 @@ To install using pip use the command
 To install using conda use the command
 
 *conda install package-name=x.x.x*
+
+## Running the program
+![](/Screenshots/out1.png)
+Windows users can run the *run.bat* file.
+Linux users can run the program in the bash using the command 
+
+*python main.py*
