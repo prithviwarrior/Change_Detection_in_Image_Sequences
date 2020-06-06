@@ -17,7 +17,9 @@ Install the following packages using pip or conda
 - pillow 7.0.0
 
 To install using pip use the command
+
 *pip install <package-name>==x.x.x*
 
 To install using conda use the command
+
 *conda install <package-name>=x.x.x*
